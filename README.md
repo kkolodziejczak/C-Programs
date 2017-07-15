@@ -1,2 +1,2 @@
 # C-Programs
-All programs from C family written at university.
+All programs written at university.

@@ -1,0 +1,1 @@
+# Dinamic allocated Maze 
